@@ -1,13 +1,3 @@
-Got it! I'll craft a README that fits your exact requirements:
-
-* Realtime AI Voice Bot using **STT (Speech-to-Text)**, **LLM (Large Language Model)**, and **TTS (Text-to-Speech)**
-* Original code (not copied from other repos)
-* Document both client and server running process
-* Tech stack: JavaScript / TypeScript / Python
-
-Here’s the updated README tailored to these points:
-
----
 
 ````markdown
 # Realtime AI Voice Bot
