@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+#record-btn {
+    padding: 20px 40px;
+    font-size: 18px;
+    margin: 50px;
+}
+
+#response-text {
+    margin-top: 20px;
+    max-width: 600px;
+}
+
+#record-btn.recording {
+    background-color: #ff4444;
+    transform: scale(1.1);
+}
+
+#status {
+    margin: 10px;
+    color: #666;
+    font-size: 0.9em;
+}
